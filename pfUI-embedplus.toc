@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: |cff33ffccpf|cffffffffUI|cffaaaaaa EmbedPlus
+## Author: Peachoo @ Nordanaar - Turtle WoW
+## Notes: Combat-based auto-toggle for pfUI's dock feature
+## Version: 1.0
+## Dependencies: pfUI
+
+pfUI-embedplus.lua
