@@ -1,5 +1,4 @@
 ## pfUI-EmbedPlus
-<img src="https://github.com/user-attachments/assets/a4e7e8f6-87bd-49ac-b1e9-558a7801cd32" float="right" align="right" width="270" >  
 
 ### Overview  
 pfUI-EmbedPlus enhances the pfUI "dock" feature with combat-based visibility controls.
@@ -10,6 +9,8 @@ pfUI-EmbedPlus enhances the pfUI "dock" feature with combat-based visibility con
 - **Combat Exit**: Optionally hide meters when leaving combat
 - **Configurable Delay**: Set a custom delay before hiding meters after combat
 - **Login Visibility Fix**: Ensures correct display state on login/reload  
+<img src="https://github.com/user-attachments/assets/a4e7e8f6-87bd-49ac-b1e9-558a7801cd32" float="right" align="right" width="270" >  
+
 > I experienced some strange behavior with my DPS meter where reloading while the meter was showing and pfUI set to not display meters by default caused the damage meter window to appear undocked on login  
 
 ### Configuration  
