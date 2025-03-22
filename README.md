@@ -3,15 +3,16 @@
 ### Overview  
 pfUI-EmbedPlus enhances the pfUI "dock" feature with combat-based visibility controls.
 
-### Features 
-- **Combat Toggle**: Show/hide damage meters when entering/leaving combat
-- **Combat Start**: Optionally display meters when entering combat
-- **Combat Exit**: Optionally hide meters when leaving combat
-- **Configurable Delay**: Set a custom delay before hiding meters after combat
-- **Login Visibility Fix**: Ensures correct display state on login/reload  
-<img src="https://github.com/user-attachments/assets/a4e7e8f6-87bd-49ac-b1e9-558a7801cd32" float="right" align="right" width="270" >  
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/3cc29df2-98b4-4c82-a1f7-9ab4ff929cb9" height="350">
+  <img src="https://github.com/user-attachments/assets/a4e7e8f6-87bd-49ac-b1e9-558a7801cd32" height="350">
+</p>
 
-> I experienced some strange behavior with my DPS meter where reloading while the meter was showing and pfUI set to not display meters by default caused the damage meter window to appear undocked on login  
+
+### Features
+- **Hide Delay**: Delay hiding meters after leaving combat
+- **Show on Entering Combat:** Enable/Disable the auto show feature
+- **Hide on Leaving Combat:** Enable/Disable the auto hiding feature
 
 ### Configuration  
 All settings are found in pfUI:
