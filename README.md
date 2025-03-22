@@ -3,6 +3,10 @@
 ### Overview  
 pfUI-EmbedPlus enhances the pfUI "dock" feature with combat-based visibility controls.
 
+> [!WARNING]  
+> This addon is only intended to be used while already using a docked addon (ShaguDPS/DPSMate/TWThreat etc)  
+> If an addon isn't docked in the right panel, this addon will instead toggle the visibility of your entire right panel
+
 <p align="left">
   <img src="https://github.com/user-attachments/assets/3cc29df2-98b4-4c82-a1f7-9ab4ff929cb9" height="350">
   <img src="https://github.com/user-attachments/assets/a4e7e8f6-87bd-49ac-b1e9-558a7801cd32" height="350">
