@@ -25,5 +25,7 @@ All settings are found in pfUI:
 - [**Mr_Rosh**](https://github.com/mrrosh)'s [pfUI-WeakIcons](https://github.com/mrrosh/pfUI-WeakIcons) & [pfUI-ElitePlayerFrame](https://github.com/mrrosh/pfUI-ElitePlayerFrame) for inspiration and better understanding on how to integrate my plugin into pfUI's GUI
 - [**Lexiebean**](https://github.com/Lexiebean)'s [pfUI-pvpoverlay](https://github.com/Lexiebean/pfUI-pvpoverlay) for inspiration and better understanding on how to integrate my plugin into pfUI's GUI
 
+---
+
 Created by Peachoo @ Nordanaar - Turtle WoW 
 > Actually made using AI Chatbots, primarily Claude 3.7 through Github Copilot
